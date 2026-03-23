@@ -1,40 +1,27 @@
 # AI Agent Setup Guide
 
-A practical, no-BS guide to setting up a 24/7 AI agent (OpenClaw, Hermes, or similar) that actually works.
+The stuff nobody tells you before you set up your first AI agent — and the one prompt you need to actually do it.
 
 ## What This Is
 
-A single document you paste into Claude Code (or any AI coding assistant) that walks you through setting up a persistent AI agent from scratch. It handles the full setup interactively — install, identity files, model routing, security, your first automation, memory, and the first week of refinement.
+Not a tutorial. Not documentation. It's the 7 lessons that take most people two weeks of frustration to learn, distilled into a 5-minute read.
 
-**Part 1** is a 5-minute read for humans — the 7 hard-won lessons that save you two weeks of frustration. Things like: don't run everything through your best model, your agent needs a LOT of rules, "work on this overnight" doesn't work the way you think, and why you should start with one automation instead of ten.
+Things like: your $0.15/request agent should be costing $0.002. "Work on this overnight" doesn't actually work. Your agent will loop endlessly unless you give it very specific rules. You're not bad at this — it's genuinely hard right now.
 
-**Part 2** is the paste-into-Claude section — a structured setup wizard with 8 phases, TODO checklists, and prompts you can use verbatim or customize.
+After the lessons, there's one prompt you paste into Claude Code that walks you through the actual setup. The setup itself is interactive — Claude already knows how to install and configure these platforms. What it won't tell you unprompted is the stuff in this guide.
 
-## Should You Use This?
+## Should I Read This or Just Ask Claude to Set It Up?
 
-**Honest assessment:** This guide is most useful if you're new to AI agents and want guardrails against the most common mistakes. The "read this first" section alone will save you real money and time.
+Honestly? You could skip straight to asking Claude. It'll walk you through a decent setup.
 
-If you're already running an agent and just need to fix something specific, this is probably too broad — go straight to the troubleshooting section or your platform's docs.
+But it won't warn you that a runaway loop can burn $50/hour. It won't tell you that "work on this overnight" silently fails. It won't explain the brains & muscles pattern that cuts your costs by 50-80%. It won't say "it's genuinely hard right now and that's not your fault." Claude is helpful-forward — it tells you how to do things, not what to watch out for.
 
-If you're technical enough to figure it out yourself, you still might want to skim Part 1. The mental model stuff (standing orders vs. questions, the brains & muscles pattern, tiered memory) is worth internalizing even if you don't follow the guide step-by-step.
-
-**What this is NOT:** This is not a replacement for your platform's official documentation. It's an opinionated quickstart that gets you to a working setup fast, based on patterns that have actually worked for people running these agents daily.
-
-## How to Use It
-
-1. Read Part 1 yourself (5 minutes)
-2. Copy Part 2 into Claude Code, Cursor, or your AI coding assistant
-3. Answer the 5 intake questions
-4. Follow the phases in order
+This guide is the "watch out for" part. Five minutes of reading that saves hours of debugging and dollars of wasted API calls.
 
 ## The Guide
 
-[AI Agent Setup Guide](AI%20Agent%20Setup%20Guide.md)
-
-## Credits
-
-Distilled from [The OpenClaw Bible](https://github.com/peth-yursick/openclaw-bible) and community wisdom from r/openclaw.
+**[AI Agent Setup Guide](AI%20Agent%20Setup%20Guide.md)**
 
 ## License
 
-MIT — use it, fork it, improve it.
+MIT
