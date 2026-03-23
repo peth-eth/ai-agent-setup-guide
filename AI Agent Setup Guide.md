@@ -88,6 +88,54 @@ Most people use AI agents like chatbots: ask a question, get an answer, done. Th
 
 ---
 
+## What people are actually using these for
+
+Not hypotheticals — these are real workflows running daily for real people. Sorted by how quickly you'll see value.
+
+### Start here (week 1)
+
+**Morning brief** — Weather, top news in your niche, your tasks for the day, one proactive suggestion. Under 200 words, delivered to Telegram before you wake up. This is the universal first automation.
+
+**Nightly self-review** — Agent reviews its own performance: what did it handle well, where did you have to step in, what friction points need a new skill or rule? Files improvement tickets for your review. This is how the agent gets better over time.
+
+**Personal CRM** — Track every person you interact with: name, how you met, topics discussed, last contact date. Every Monday, get a digest of people you should reconnect with (no contact in 30+ days).
+
+**Inbox declutter** — Summarize newsletters and batch them into one daily digest email. Never scroll through promotional emails again.
+
+### Once you're comfortable (weeks 2-4)
+
+**Content pipeline** — Agent scans your sources for trending topics, drafts content in your voice, queues for approval, publishes on schedule. Works for tweets, threads, newsletters, blog posts.
+
+**Research & intelligence** — Monitor Twitter/Reddit/HN/arXiv for topics you care about. Daily or weekly digests with summaries and key takeaways. One person built a 109-source tech news aggregator with quality scoring.
+
+**Autonomous coding** — Agent builds tools, reviews PRs, fixes bugs, ships features while you sleep. One person has their agent build surprise mini-apps overnight based on brain-dumped goals.
+
+**Meeting notes & action items** — Feed meeting transcripts, get structured summaries with action items automatically created in Jira/Linear/Todoist, assigned to the right person.
+
+**Health & symptom tracker** — Log food and symptoms via chat, agent identifies triggers and patterns over time. Scheduled check-in reminders so you don't forget to log.
+
+### Power user territory
+
+**Multi-agent content factory** — Research agent, writing agent, and thumbnail agent working in dedicated Discord channels. One orchestrator coordinates.
+
+**Self-healing home server** — Infrastructure agent with SSH access runs cron health checks, auto-fixes common issues, alerts you only when it can't self-repair.
+
+**Business agent** — Give the agent ownership of an actual business entity. Set a mission ("make $X with no human employees"), give it Stripe/email/website access, step back to strategic nudges. Real people are doing this.
+
+**Travel assistant** — Parses booking confirmation emails into structured data. Proactively sends trip overviews, packing lists, checkout reminders, missing booking alerts. Readonly — it never touches your bookings.
+
+**Family calendar & household** — Aggregate all family calendars into one morning briefing. Monitor messages for appointments. Track household inventory and maintenance schedules.
+
+**Event guest confirmation** — Call a guest list one-by-one via AI voice to confirm attendance, collect dietary preferences, compile a summary. Fully automated.
+
+**Prediction market autopilot** — Paper trading on Polymarket with backtesting, strategy analysis, and daily performance reports.
+
+### The full community list
+
+The community maintains 40+ verified use cases at [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases). Every submission has been tested for at least a day before inclusion. Worth browsing for inspiration.
+
+---
+
 ## The life automation audit
 
 Once your agent is stable (give it at least a week), this is the highest-leverage exercise you can do. Send this to your agent:
